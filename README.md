@@ -1,2 +1,2 @@
 # projeto-flexblog
- Porjeto de um blog utilizando flexbox
+ Projeto de um blog utilizando flexbox
